@@ -1,6 +1,6 @@
 # Node.js Pant Object
 
-This is a little Command line app I did to help me learn Node.js and practice Prototypal Inheritance. It was a good exercise in using high order functions as well.  
+This is a little Command line app I did to help me learn Node.js and practice Prototypal Inheritance. It was a good exercise in using higher order functions as well.  
 
 1. Create a plant that is an object.
 2. It starts out a seed.
