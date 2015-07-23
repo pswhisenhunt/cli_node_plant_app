@@ -2,6 +2,10 @@
 
 This is a little Command line app I did to help me learn Node.js and practice Prototypal Inheritance. It was a good exercise in using higher order functions as well.  
 
+I used the npm module 'prompt' to get user input. Run 'node main.js' to play. It asks for your plant's name, and then displays a menu to choose rather to water, feed, terminiate, give sunshine, or give shade to your plant.
+
+
+// My requirements 
 1. Create a plant that is an object.
 2. It starts out a seed.
 3. When you pour water onto it, the seed becomes a plant the first time it is watered and grows two inches every watering after.
@@ -12,5 +16,3 @@ This is a little Command line app I did to help me learn Node.js and practice Pr
 8. If you put it in the sun it flowers.
 9. If you take it out of the sun the flower goes away.
 
-
-run 'node main.js' to play!
