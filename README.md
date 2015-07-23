@@ -11,3 +11,6 @@ This is a little Command line app I did to help me learn Node.js and practice Pr
 7. It cannot be fed more than 4 times or watered more than 4 times.
 8. If you put it in the sun it flowers.
 9. If you take it out of the sun the flower goes away.
+
+
+run 'node main.js' to play!
